@@ -1,0 +1,32 @@
+* {
+   margin: 0px;
+   padding: 0px;
+}
+
+
+.Navbar {
+       background-color: darksalmon;
+       display: flex;
+       justify-content: space-around;
+       align-items: center;
+       padding: 10px;
+}
+
+.Navbar .items ul  {
+        list-style-type: none;
+        display: flex;
+        gap: 25px;
+
+}
+
+
+.Navbar .logo {
+    
+
+}
+
+.Navbar .toggle{
+    
+}
+
+

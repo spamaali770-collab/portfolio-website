@@ -1,0 +1,18 @@
+  /* Univerasal */
+/* * {
+    background-color: black;
+} */
+
+/* ID */
+#myHeading{
+  background-color: blue;
+}
+
+/* Class */
+.abc{
+  color: brown;
+}
+
+p {
+  color: crimson;
+}

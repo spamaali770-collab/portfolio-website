@@ -1,0 +1,38 @@
+.Cards {
+    display: flex;
+    /* justify-content: center;
+    justify-content: space-around;
+    /* gap: 25px; */ 
+     justify-content: space-evenly;
+}
+
+.card {
+      width: 300px;
+      /* border-width: 2px;
+      border-style: solid;
+      border-color: black; */
+      border: 2px solid black;
+
+}
+
+
+.card .card-img img {
+      width: 100%;
+
+}
+
+.card .card-body {
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

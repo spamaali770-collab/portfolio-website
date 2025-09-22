@@ -1,0 +1,44 @@
+.head1 {
+       /* display: inline; */
+       display: inline;
+       width: 200px;
+       height: 300px;
+       background-color: rgb(20, 204, 29);
+}
+
+.head2 {
+       display: block;
+       width: 250px;
+       height: 400px;
+       background-color: red
+}
+
+.italic1 {
+       display: block;
+       height: 100px;
+       width: 90px;
+       background-color: rgb(221, 10, 193);
+}
+
+
+.italic2 {
+       width: 200px;
+       height: 200px;
+       background-color: crimson;
+
+
+
+}
+
+.para1 {
+       display: inline-block;
+       width: 200px;
+       height: 200px;
+       background-color: tomato;
+
+}
+
+
+.para2 {
+       display: inline;
+}
